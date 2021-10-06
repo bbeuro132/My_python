@@ -2,6 +2,10 @@
 
 과제물과 실습자료 폴더에는 Python을 공부하며 제작한 프로젝트가 들어있습니다.
 
+
+
+
+
 # 웹 스크래핑 프로젝트
 
 ![1](https://user-images.githubusercontent.com/81130257/136132510-08841b0f-a6a6-431d-823c-cc9a18ee9153.JPG)
